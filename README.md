@@ -1,5 +1,7 @@
 # Nero🔥 - Retrieval-Augmented Generation Chatbot
 
+![Nero](./nero.png)
+
 ## About
 Nero🔥 is a Retrieval-Augmented Generation Chatbot developed during the HackItAll hackathon organized by Liga Studenților din Facultatea de Automatică și Calculatoare București (LSAC București). The chatbot is designed to provide responses to questions from documents, overcoming the limitations of traditional chatbots with static datasets. It allows for dynamic interaction and can work with private data, making it potentially scalable to enterprise applications in the future.
 
