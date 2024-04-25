@@ -12,7 +12,7 @@ Nero🔥 is a Retrieval-Augmented Generation Chatbot developed during the HackIt
 - Can potentially scale to enterprise applications by handling private data securely.
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/your-username/nero-chatbot.git`
+1. Clone the repository: `git clone https://github.com/AndreasBaschir/77777.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Input your OpenAi API key -- Line 15 in `Nero.py`
 4. Run the chatbot: `streamlit run Nero.py`
